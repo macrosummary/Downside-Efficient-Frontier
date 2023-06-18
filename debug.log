@@ -1,0 +1,22 @@
+2023-06-18 22:39:58,272 [INFO] Fetching data for GC=F from 2020-01-01 00:00:00 to 2023-06-18 22:38:16.792291 with 1d frequency
+2023-06-18 22:39:58,767 [INFO] Displaying scatter plot for GC=F
+2023-06-18 22:43:03,720 [INFO] Fetching data for  from 2020-01-01 to 2023-06-18 with 1d frequency
+2023-06-18 22:43:03,721 [ERROR] Error occurred while fetching data: No objects to concatenate
+2023-06-18 22:43:26,873 [INFO] Fetching data for GC=F from 2020-01-01 to 2023-06-18 with 1d frequency
+2023-06-18 22:43:27,145 [INFO] Displaying scatter plot for GC=F
+2023-06-18 22:43:27,146 [INFO] Fetching data for ES=F from 2020-01-01 to 2023-06-18 with 1d frequency
+2023-06-18 22:43:27,388 [INFO] Displaying scatter plot for ES=F
+2023-06-18 22:47:42,737 [INFO] Fetching data for ['GC=F', 'ES=F'] from 2020-01-01 to 2023-06-18 with 1d frequency
+2023-06-18 22:47:44,061 [INFO] Displaying scatter plot for GC=F
+2023-06-18 22:47:44,095 [INFO] Displaying scatter plot for ES=F
+2023-06-18 22:49:28,421 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 22:54:24,204 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 22:55:19,420 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 22:56:12,258 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:00:24,768 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:01:12,098 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:02:48,512 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:02:57,731 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:05:09,735 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:06:46,175 [INFO] Displaying scatter plot for ['GC=F', 'ES=F']
+2023-06-18 23:12:17,889 [INFO] Fetching data for ['HG=F'] from 2020-01-01 to 2023-06-18 with 1d frequency

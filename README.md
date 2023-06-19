@@ -2,6 +2,10 @@
 
 This tool is designed to help compare assets, funds, and systematic strategies based on their upside and downside volatility. It provides a means to evaluate investments beyond the traditional efficient frontier framework by considering the potential benefits of upside volatility and volatility convexity.
 
+<p align="center">
+  <img src="newplot.png" alt="newplot">
+</p>
+
 ## Purpose
 
 The purpose of this tool is to assist in the construction of portfolios by offering an additional perspective on asset performance. While the efficient frontier is commonly used for asset comparison, it may not provide a comprehensive view in all situations. Upside volatility, which refers to positive price movements, can be advantageous, especially when accompanied by volatility convexity.
